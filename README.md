@@ -26,5 +26,5 @@ cat hosts.lst | xtrakt subdomain
 if you got a lit of urls from either burp/gau/etc and want hosts:
 
 ```
-cat urls | xtrakt fqdn
+cat urls.lst | xtrakt fqdn
 ```
