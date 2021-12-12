@@ -20,7 +20,7 @@ cat domains.lst | xtrakt domain
 if you got a list of hostnames with their domains and want to get just the hostname:
 
 ```
-cat hosts.txt | xtrakt subdomain
+cat hosts.lst | xtrakt subdomain
 ```
 
 if you got a lit of urls from either burp/gau/etc and want hosts:
